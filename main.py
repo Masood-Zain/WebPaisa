@@ -9,4 +9,9 @@ if username == "admin":
   print ("Password")
   password = input()
   if password == "password":
+    print ("Total Balance: 1000 ETH")
+if username == "anish":
+  print ("Password")
+  password = input()
+  if password == "password":
     print ("Total Balance: 100 ETH")
